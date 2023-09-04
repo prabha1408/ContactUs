@@ -1,0 +1,13 @@
+.contactheader {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.contactheader h1 {
+    font-size: 48px;
+    font-weight: 500px;
+    max-width: 80%;
+
+}
+.contactheader p {
+  weight: 500px;
+}
